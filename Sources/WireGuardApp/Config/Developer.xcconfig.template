@@ -11,7 +11,7 @@ APP_ID_MACOS = <app_id>
 
 
 // Need to add location of go binary to your PATH
-// example is for when go os installed by homebrew in 
+// example is for when go is installed by homebrew in 
 //   /opt/homebrew/bin/go
 //
 //:configuration = Debug
